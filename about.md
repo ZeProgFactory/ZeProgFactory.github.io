@@ -7,6 +7,8 @@ permalink: /about/
 I design and build fully customized applications on mobile (or not) platforms.
 
 My mission is to help you create solutions that improve the flow of information through your information system, while ensuring a high level of reliability, scalability and system performance.  
+
+![_config.yml]({{ site.baseurl }}/images/DSC_4624_2 (2).jpg)
   
 ### More Information 
 
