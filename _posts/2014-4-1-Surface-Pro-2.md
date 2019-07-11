@@ -47,7 +47,8 @@ La Surface Pro 2 n’est peut-être pas encore LCARS du capitaine Kirk, mais ell
 
 ---
 ### Les liens 
-HP 3005pr (http://www8.hp.com/fr/fr/products/oas/product-detail.html?oid=5303779#!tab=features )
-Logitech Ultrathin Touch Mouse ( http://www.logitech.fr/fr-fr/product/ultrathin-touch-mouse-t630 )
-Driver DisplayLink (http://www.displaylink.com/support/downloads.php )
-LCARS ( http://fr.wikipedia.org/wiki/LCARS ) 
+HP 3005pr ( http://www8.hp.com/fr/fr/products/oas/product-detail.html?oid=5303779#!tab=features )  
+Logitech Ultrathin Touch Mouse ( http://www.logitech.fr/fr-fr/product/ultrathin-touch-mouse-t630 )  
+Driver DisplayLink ( http://www.displaylink.com/support/downloads.php )  
+LCARS ( http://fr.wikipedia.org/wiki/LCARS )    
+  
