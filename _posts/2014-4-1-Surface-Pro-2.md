@@ -8,6 +8,8 @@ Tout a commencé en regardant les premières épisodes de Star Trek ou le capita
 
 Mon quotidien se compose d’environ 70 % de développement (Visual Studio, Xamarin, … ) et 30 % de tâches administratives (MS Office 2013 & co). Mon temps se partage entre deux bureaux et je passe environ 20 % de mon temps en clientèle.
 
+![_config.yml]({{ site.baseurl }}/images/2014-4-1-Surface-Pro-2 20140313 112222.JPG)
+
 ## Au quotidien
 En termes de confort d’utilisation on est à l’aise avec la Surface Pro 2. Elle surclasse mon laptop qui est pourtant équipé d’un i7. Avec un SSD et un processeur Intel i5 de dernière génération la Surface Pro 2 est particulièrement véloce. J’utilise les grands classiques Office 2013 et Visual Studio 2013. Pour plus de confort j’utilise un clavier externe. Je trouve par contre que les logiciels modern UI (mail, agenda, One Note, …) sont bien plus adaptés à une utilisation au doigt qu’Office 2013. Je n’ai rencontré aucun problème lors des installations des différents logiciels, que ce soit à travers le réseau ou à travers un lecteur DVD USB externe.
  
