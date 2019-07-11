@@ -23,10 +23,10 @@ La différence en termes de vitesse de frappe est énorme. La « Touch Cover » 
 ## Mes configurations
 Les deux configurations qui ont fait leurs preuves pour moi ces derniers mois sont :
 
-### En déplacement (photo)
+### En déplacement  
 Surface Pro 2 + Type Cover + Logitech Ultrathin Touch Mouse (oui, je suis réfractaire au touchpad et on ne peut pas tout faire au doit sur l’écran) sur la route. D’ailleurs, en dehors d’un prix exorbitant la souris Logitech (environ 70 €) dispose de deux atouts majeurs. D’une part elle se recharge très rapidement sur un port USB, d’autre part elle peut être couplée avec deux maitres.
 
-### A la maison  (photo)
+### A la maison  
 Surface Pro 2 + Stations d’accueil HP 3005pr qui exploite l’USB3 et me donne outre d’être un hub USB & USB3, un port Gigabit Ethernet et une sortie HDMI pour un deuxième écran (environ 140 €). J’utilise une souris et un clavier Micrsoft en Bluetooth, ainsi qu’un écran 24 pouces branché sur le port HDMI de la station d’accueil. 
 
 Je n’ai pas testé la station d’accueil spécifique pour surface de Microsoft, mais je trouve personnellement, qu’à l’âge de l’USB3 une station d’accueil dédié ne se justifie plus et je dois dire qu’en vue de l’utilisation des derniers mois je ne regrette pas mon choix. L’affichage est très performant (je ne l’ai pas testé pour jouer des jeux) et très conformable à l’utilisation. On branche le câble USB et tout fonctionne. Petite astuce pour l’installation des driver : utilisez le driver de DisplayLink qui est plus récent et pose moins de soucis lors de l’installation.
