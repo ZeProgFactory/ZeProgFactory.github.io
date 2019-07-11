@@ -1,9 +1,9 @@
 ---
 layout: post
-title: MediaPlayer
+title: (Under contruction) MediaPlayer
 ---
 ## A cross platform media player lib ...       
-It's based on ideas and code of [martijn00](https://github.com/martijn00) ( https://github.com/martijn00/XamarinMediaManager )
+Based on ideas and code of [martijn00](https://github.com/martijn00) ( https://github.com/martijn00/XamarinMediaManager )
 
 MediaPlayer is basically a clone of martijn00s XamarinMediaManager. It started all when I tried to contribute to this project.    
   
