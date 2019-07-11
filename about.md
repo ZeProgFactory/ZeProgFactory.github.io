@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I design and build fully customized applications on mobile (or not) platforms.
 
-### More Information
+My mission is to help you create solutions that improve the flow of information through your information system, while ensuring a high level of reliability, scalability and system performance.  
+  
+### More Information 
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+on Twitter or LinkedIn ...
