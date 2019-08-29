@@ -2,7 +2,7 @@
 layout: post
 title: Petite enquête sur votre façon de protéger votre Surface Pro 4  
 ---  
-### Petite enquête sur votre façon de protéger votre Surface Pro 4  
+### L'arrivé de la nouvelle Surface Pro 4  
 Mon chef, c’est-à-dire moi, vient de me gratifier d'une nouvelle Surface Pro 4 toute option. Il est évident que lui et moi (par moment je suis un peu schizo ;-) ) ont envie de protéger ce bijoux de technologie. Comme il représente tout même un certain investissement je me pose la question comment.  
   
 Cela fait 3 ans maintenant que je me ballade avec un Surface Pro 3. Elle n'est plus comme neuf, mais elle n'as pas trop souffert. Principalement j'utilise un sac de STM ( https://www.stmgoods.com/ ). Leur produits on un excellent rapport qualité-prix et très durables. Mais le classique sac d'ordi n'est plus tellement adapté à vie professionnelle d'aujourd'hui, du coup je cherche d'autres solutions.  
