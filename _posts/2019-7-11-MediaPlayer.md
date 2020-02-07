@@ -1,6 +1,7 @@
 ---
 layout: post
 title: (Under contruction) MediaPlayer
+tags : [Nugets, Xamarin.Forms]
 ---
 ## A cross platform media player lib ...       
 Based on ideas and code of [martijn00](https://github.com/martijn00) ( https://github.com/martijn00/XamarinMediaManager )
