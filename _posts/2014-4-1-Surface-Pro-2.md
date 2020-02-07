@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quelques mois avec le Surface Pro 2 de Microsoft
+tags : [Hardware, Surface]
 ---
 ### Les tablettes et moi, une longue histoire … 
 
