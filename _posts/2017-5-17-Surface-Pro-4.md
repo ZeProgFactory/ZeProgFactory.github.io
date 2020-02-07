@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Petite enquête sur votre façon de protéger votre Surface Pro 4  
+tags : [Hardware, Surface]
 ---  
 ### L'arrivé de la nouvelle Surface Pro 4  
 Mon chef, c’est-à-dire moi, vient de me gratifier d'une nouvelle Surface Pro 4 toute option. Il est évident que lui et moi (par moment je suis un peu schizo ;-) ) ont envie de protéger ce bijoux de technologie. Comme il représente tout même un certain investissement je me pose la question comment.  
