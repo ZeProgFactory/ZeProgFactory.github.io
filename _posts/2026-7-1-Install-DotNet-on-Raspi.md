@@ -4,9 +4,8 @@ title: Install .Net on Raspberry Pi
 tags : [.Net, Linux, Bash, RaspberryPi]
 ---
 ### A quick, user-level .Net SDK install for Raspberry Pi
-
 Hi folks,  
-Here is the recipe I use to install the .Net SDK on Linux with Microsoft's official `dotnet-install.sh` script. Everything goes in your home folder (`~/.dotnet`), so you don't need root rights or a package manager. This is handy on servers, WSL, Raspberry Pi, or distros without an official package.
+Here is the recipe I use to install the .Net SDK on Rasperry Pi with Microsoft's official `dotnet-install.sh` script. Everything goes in your home folder (`~/.dotnet`), so you don't need root rights or a package manager. This is handy on Raspberry Pi, or distros without an official package.
 
 ## 1. Install .Net
 
