@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install .Net on Linux
+title: Install .Net on Raspberry Pi
 tags : [.Net, Linux, Bash, RaspberryPi]
 ---
 ### A quick, user-level .Net SDK install for Raspberry Pi
